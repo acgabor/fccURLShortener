@@ -1,2 +1,1 @@
-# fccURLShortener
-URL shortener project for freeCodeCamp
+acgabor-url-shortener for freeCodeCamp
